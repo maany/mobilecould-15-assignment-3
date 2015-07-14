@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\classes-f701db82bdf8ae992cc66b175e6b910c8b0d46a3.jar" />
+    </item>
+    <item
+        jar="D:\Program Files (x86)\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-72a32c6265949b3bf3dec868e2ffc079134badcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\OPSKMC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\gson-2.2.4-ea93d745ef1771a2bc07f63bff14234baa98b665.jar" />
+    </item>
+    <item
+        jar="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1923100a359cfe3db7cfb86c5be39bdd2e6a77a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-98cb43eaf83261835169f412912d8de60d60b134.jar" />
+    </item>
+    <item
+        jar="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\libs\com.fasterxml.jackson.annotations.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="adaa16df5f1ff56b40fb59362c83886f5413096c">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.annotations-7f19ebe751e6f144bb9fa6fe869652659c757992.jar" />
+    </item>
+    <item
+        jar="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\OPSKMC\StudioProjects\VideoUploadClient1\app\build\intermediates\pre-dexed\debug\commons-io-2.4-e3b1a1f5037a5ce63b9bac3b9f22b694e6c29390.jar" />
+    </item>
+
+</items>
